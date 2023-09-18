@@ -1,0 +1,35 @@
+header{
+    background-image: url(pattern.png);
+    background-color: rgb(70, 175, 245);
+    background-size:auto;
+    width: 30%;
+    padding-right: 100%;
+
+}
+#logo{
+    width: 50%;
+    height: 100%;
+}
+
+h1{
+    padding-right: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:5px;
+}
+a{
+    color: rgb(70, 175, 245);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.Trafilettogrey{
+    color: gray;
+    margin: 2px;;
+}
+#Photo{
+    margin-top: 20px;
+}
+.fotoformat{
+    font-size:small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 2px;
+}

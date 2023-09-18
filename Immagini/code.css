@@ -1,14 +1,14 @@
 header{
     background-image: url(pattern.png);
     background-color: rgb(70, 175, 245);
-    background-size:auto;
+    background-size:contain;
     width: 30%;
     padding-right: 100%;
 
 }
 #logo{
-    width: 50%;
-    height: 100%;
+    width: 60%;
+    padding-left: 20px;
 }
 
 h1{
@@ -27,9 +27,35 @@ a{
 }
 #Photo{
     margin-top: 20px;
+    padding-left: 5px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 .fotoformat{
     font-size:small;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 2px;
+}
+thead{
+    color: aliceblue;
+    background-color: rgb(70, 175, 245);
+}
+.dispari{
+    background-color: rgba(105, 199, 228, 0.644);
+    border-color: rgba(105, 199, 228, 0.644);
+    
+}
+table{
+    width: 80%;
+
+}
+#Grey{
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+}
+#pubblicità{
+   margin-right: 1200px;
+   width: 200px;
 }

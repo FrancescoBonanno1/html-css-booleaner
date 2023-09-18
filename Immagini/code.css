@@ -4,6 +4,7 @@ header{
     background-size:contain;
     width: 30%;
     padding-right: 100%;
+    margin: auto;
 
 }
 #logo{
@@ -48,6 +49,8 @@ thead{
 }
 table{
     width: 80%;
+    padding-left: 5px;
+    padding-right: 5px;
 
 }
 #Grey{

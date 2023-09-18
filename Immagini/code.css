@@ -1,21 +1,23 @@
 header{
     background-image: url(pattern.png);
     background-color: rgb(70, 175, 245);
-    background-size:contain;
+    background-size: 400px;
     width: 30%;
     padding-right: 100%;
     margin: auto;
 
 }
 #logo{
-    width: 60%;
+    width: 200px;
     padding-left: 20px;
+    margin-top: 20px;
 }
 
 h1{
     padding-right: 400px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom:5px;
+    font-size: 50px;
 }
 a{
     color: rgb(70, 175, 245);

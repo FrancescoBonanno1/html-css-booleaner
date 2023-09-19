@@ -1,15 +1,14 @@
 header{
     background-image: url(pattern.png);
     background-color: rgb(70, 175, 245);
-    background-size: 400px;
-    width: 30%;
-    padding-right: 100%;
-    margin: auto;
+    background-size: 300px;
+    width: 40%;
+    padding-right: 1200px;
 
 }
 #logo{
     width: 200px;
-    padding-left: 20px;
+    padding-left: 100px;
     margin-top: 20px;
 }
 
@@ -18,21 +17,26 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom:5px;
     font-size: 50px;
+    padding-left: 100px;
 }
 a{
     color: rgb(70, 175, 245);
+    padding-left: 2px;
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 .Trafilettogrey{
     color: gray;
-    margin: 2px;;
+    margin: 2px;
+    padding-left: 100px;
+
 }
 #Photo{
     margin-top: 20px;
     padding-left: 5px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 500px
 
 }
 .fotoformat{
@@ -50,8 +54,8 @@ thead{
     
 }
 table{
-    width: 80%;
-    padding-left: 5px;
+    width: 100%;
+    padding-left: 100px;
     padding-right: 5px;
 
 }
@@ -59,8 +63,16 @@ table{
     color: gray;
     font-family:Arial, Helvetica, sans-serif;
     margin-top: 35px;
+    padding-left: 100px;
 }
 #pubblicità{
    margin-right: 1200px;
    width: 200px;
+   padding-left: 100px;
+}
+#ulistconp{
+    padding-left: 100px;
+}
+#footerp{
+    padding-left: 100px;
 }

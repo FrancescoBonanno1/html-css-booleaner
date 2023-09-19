@@ -13,7 +13,7 @@ header{
 }
 
 h1{
-    padding-right: 400px;
+    padding-right: 350px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom:5px;
     font-size: 50px;
@@ -36,7 +36,7 @@ a{
     padding-left: 5px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 500px
+    padding-left: 300px;
 
 }
 .fotoformat{
@@ -57,6 +57,8 @@ table{
     width: 100%;
     padding-left: 100px;
     padding-right: 5px;
+    border-collapse: collapse;
+    margin: 0 20px;
 
 }
 #Grey{
